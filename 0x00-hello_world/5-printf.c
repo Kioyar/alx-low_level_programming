@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
- * main - to be called
- * return:0 for the int
+ * main - prints the phrase with proper grammar,
+ * return: 0 if exited properly, non-zero otherwise 
 */
 int main(void)
 {
